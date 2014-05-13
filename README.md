@@ -4,5 +4,6 @@ summoner_client
 
 summoner client source
 
-test
+add in master
+
 Nothing to say, you guys know the rules:)  
