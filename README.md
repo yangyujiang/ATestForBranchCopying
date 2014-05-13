@@ -4,5 +4,5 @@ summoner_client
 
 summoner client source
 
-test
+add in feature-idea
 Nothing to say, you guys know the rules:)  
